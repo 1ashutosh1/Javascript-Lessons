@@ -1,0 +1,1 @@
+console.log("Ashutosh")     //Print any String or any value . Its basically a print statement
